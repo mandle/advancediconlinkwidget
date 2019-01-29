@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>standard</category>
+        <client_script><![CDATA[function($scope, spAriaUtil) {
+	
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.dn-image{
+    width: 100%;
+    height: 250px;
+    background-size: cover;
+}</css>
+        <data_table>sp_instance_link</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list>short_description,x_11042_ail_image</field_list>
+        <has_preview>true</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>DN - Advanced Icon Link</name>
+        <option_schema>[{"name":"hover_effect","section":"other","label":"Hover Effect","type":"choice","choices":[{"label":"dn-fade","value":"dn-fade"},{"label":"dn-push-up","value":"dn-push-up"},{"label":"dn-push-down","value":"dn-push-down"},{"label":"dn-push-left","value":"dn-push-left"},{"label":"dn-push-right","value":"dn-push-right"},{"label":"dn-slide-up","value":"dn-slide-up"},{"label":"dn-slide-down","value":"dn-slide-down"},{"label":"dn-slide-left","value":"dn-slide-left"},{"label":"dn-slide-right","value":"dn-slide-right"},{"label":"dn-reveal-up","value":"dn-reveal-up"},{"label":"dn-reveal-down","value":"dn-reveal-down"},{"label":"dn-reveal-left","value":"dn-reveal-left"},{"label":"dn-reveal-right","value":"dn-reveal-right"},{"label":"dn-hinge-up","value":"dn-hinge-up"},{"label":"dn-hinge-down","value":"dn-hinge-down"},{"label":"dn-hinge-left","value":"dn-hinge-left"},{"label":"dn-hinge-right","value":"dn-hinge-right"},{"label":"dn-flip-horiz","value":"dn-flip-horiz"},{"label":"dn-flip-vert","value":"dn-flip-vert"},{"label":"dn-flip-diag-1","value":"dn-flip-diag-1"},{"label":"dn-flip-diag-2","value":"dn-flip-diag-2"},{"label":"dn-shutter-out-horiz","value":"dn-shutter-out-horiz"},{"label":"dn-shutter-out-vert","value":"dn-shutter-out-vert"},{"label":"dn-shutter-out-diag-1","value":"dn-shutter-out-diag-1"},{"label":"dn-shutter-out-diag-2","value":"dn-shutter-out-diag-2"},{"label":"dn-shutter-in-horiz","value":"dn-shutter-in-horiz"},{"label":"dn-shutter-in-vert","value":"dn-shutter-in-vert"},{"label":"dn-shutter-in-out-horiz","value":"dn-shutter-in-out-horiz"},{"label":"dn-shutter-in-out-vert","value":"dn-shutter-in-out-vert"},{"label":"dn-shutter-in-out-diag-1","value":"dn-shutter-in-out-diag-1"},{"label":"dn-shutter-in-out-diag-2","value":"dn-shutter-in-out-diag-2"},{"label":"dn-fold-up","value":"dn-fold-up"},{"label":"dn-fold-down","value":"dn-fold-down"},{"label":"dn-fold-left","value":"dn-fold-left"},{"label":"dn-fold-right","value":"dn-fold-right"},{"label":"dn-zoom-in","value":"dn-zoom-in"},{"label":"dn-zoom-out","value":"dn-zoom-out"},{"label":"dn-zoom-out-up","value":"dn-zoom-out-up"},{"label":"dn-zoom-out-down","value":"dn-zoom-out-down"},{"label":"dn-zoom-out-left","value":"dn-zoom-out-left"},{"label":"dn-zoom-out-right","value":"dn-zoom-out-right"},{"label":"dn-zoom-out-flip-horiz","value":"dn-zoom-out-flip-horiz"},{"label":"dn-zoom-out-flip-vert","value":"dn-zoom-out-flip-vert"},{"label":"dn-blur","value":"dn-blur"}]}]</option_schema>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function(){
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-29 11:23:50</sys_created_on>
+        <sys_id>a38e9aa1db57230004eef36f2996191a</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>DN - Advanced Icon Link</sys_name>
+        <sys_package display_value="Advanced Icon Link" source="x_11042_ail">40cc8a21db17230004eef36f29961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Icon Link">40cc8a21db17230004eef36f29961992</sys_scope>
+        <sys_update_name>sp_widget_a38e9aa1db57230004eef36f2996191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-29 11:49:29</sys_updated_on>
+        <template><![CDATA[ <div class="main">
+<div class='effects'>
+<div class="demo">
+          <figure class="{{options.hover_effect}}"><img class='dn-image' src="{{options.x_11042_ail_image}}" alt="example-image">
+            <figcaption>
+              <h3>Hello World</h3>
+              <p>Life is too important to be taken seriously!</p>
+            </figcaption><a href="javascript:;"></a>
+          </figure>
+           </div>
+</div>
+</div>]]></template>
+    </sp_widget>
+</record_update>

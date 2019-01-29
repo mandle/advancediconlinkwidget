@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" audit="true" extends="sp_instance" label="Instance with Link" max_length="40" name="sp_instance_link" type="collection">
+        <element attributes="pdf_cell_type=image" label="Image" max_length="40" name="x_11042_ail_image" type="user_image"/>
+    </element>
+</database>

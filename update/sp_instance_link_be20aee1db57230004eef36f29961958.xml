@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>This is Hover effect 2</short_description>
+        <size>md</size>
+        <sp_column display_value="2">4520aee1db57230004eef36f299619b1</sp_column>
+        <sp_page/>
+        <sp_widget display_value="DN - Advanced Icon Link">a38e9aa1db57230004eef36f2996191a</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-29 11:30:53</sys_created_on>
+        <sys_id>be20aee1db57230004eef36f29961958</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Advanced Icon Link" source="x_11042_ail">40cc8a21db17230004eef36f29961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Icon Link">40cc8a21db17230004eef36f29961992</sys_scope>
+        <sys_update_name>sp_instance_link_be20aee1db57230004eef36f29961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-29 11:51:51</sys_updated_on>
+        <title/>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"hover_effect": {
+		"value": "dn-zoom-out-up",
+		"displayValue": "dn-zoom-out-up"
+	}
+}]]></widget_parameters>
+        <x_11042_ail_image>21912665db57230004eef36f2996192b</x_11042_ail_image>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=be20aee1db57230004eef36f29961958"/>
+</record_update>

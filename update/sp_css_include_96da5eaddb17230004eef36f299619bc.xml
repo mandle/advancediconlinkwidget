@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <name>ImageHover</name>
+        <source>local</source>
+        <sp_css display_value="ImageHover.css">65ea9eaddb17230004eef36f2996195a</sp_css>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-29 11:08:01</sys_created_on>
+        <sys_id>96da5eaddb17230004eef36f299619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ImageHover</sys_name>
+        <sys_package display_value="Advanced Icon Link" source="x_11042_ail">40cc8a21db17230004eef36f29961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Icon Link">40cc8a21db17230004eef36f29961992</sys_scope>
+        <sys_update_name>sp_css_include_96da5eaddb17230004eef36f299619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-29 11:08:01</sys_updated_on>
+        <url/>
+    </sp_css_include>
+</record_update>
