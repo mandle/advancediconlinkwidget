@@ -22,21 +22,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-29 11:30:53</sys_created_on>
         <sys_id>be20aee1db57230004eef36f29961958</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name/>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Effect 2</sys_name>
         <sys_package display_value="Advanced Icon Link" source="x_11042_ail">40cc8a21db17230004eef36f29961992</sys_package>
         <sys_policy/>
         <sys_scope display_value="Advanced Icon Link">40cc8a21db17230004eef36f29961992</sys_scope>
         <sys_update_name>sp_instance_link_be20aee1db57230004eef36f29961958</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-29 15:48:48</sys_updated_on>
-        <title/>
+        <sys_updated_on>2019-01-29 16:02:57</sys_updated_on>
+        <title>Effect 2</title>
         <type>page</type>
         <url/>
         <widget_parameters><![CDATA[{
 	"hover_effect": {
-		"value": "dn-zoom-out-flip-vert",
-		"displayValue": "dn-zoom-out-flip-vert"
+		"value": "dn-shutter-out-vert",
+		"displayValue": "dn-shutter-out-vert"
 	}
 }]]></widget_parameters>
         <x_11042_ail_image>21912665db57230004eef36f2996192b</x_11042_ail_image>
