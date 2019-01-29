@@ -1,3 +1,6 @@
+Credits:
+http://imagehover.io/
+
 # Generated files
 This repository contains generated files and a checksum.
 
